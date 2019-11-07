@@ -1,6 +1,6 @@
 {
     "title": "docker gitbook镜像",
-    "author": "ming",
+    "author": "honux",
     "description": "docker gitbook镜像",
     "language": "zh-hans",
     "gitbook": "3.2.3",
@@ -9,7 +9,7 @@
     },
     "links": {
         "sidebar": {
-            "我的狗窝": "https://www.iming.info"
+            "测试连接": "www.dcits.app"
         }
     }
 }
